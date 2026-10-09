@@ -71,3 +71,16 @@ Polícia Rodoviária Federal (PRF).
 Os arquivos CSV utilizados no painel foram previamente processados
 para fins acadêmicos. Os resultados devem ser interpretados
 considerando as limitações dos dados disponíveis.
+
+## Continuidade técnica do MAPPA
+
+O MAPPA PI II dá continuidade ao Projeto Integrador I (PI I), aproveitando o processo de tratamento dos dados da PRF e a estrutura do dashboard desenvolvidos anteriormente.
+
+No PI I, a equipe era composta por cinco integrantes. No PI II, passou a contar com três participantes: João Vitor, Danilo Lisboa e Igor Cavalcante.
+
+O código original do ETL foi preservado na pasta `etl/`, permitindo consultar o processamento utilizado para preparar os dados do painel.
+
+- [Documentação do ETL](etl/README.md)
+- [Código ETL original](etl/etl_mappa_v3.py)
+
+Entre as evoluções analíticas trabalhadas no PI II estão a comparação entre períodos e a identificação de trechos rodoviários com maior concentração de acidentes.
