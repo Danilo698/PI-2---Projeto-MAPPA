@@ -1,37 +1,47 @@
-# Sprint 00 - Planejamento
+# Sprint 00 — Planejamento do MAPPA PI II
+
+> **Situação:** consolidação documental retrospectiva, elaborada a partir dos arquivos existentes. Não constitui ata de reunião nem comprova aprovação coletiva. Campos não confirmados permanecem identificados como pendentes.
 
 ## Contexto
 
-Descreva o ponto de partida da disciplina, as restrições iniciais, as premissas conhecidas e o escopo que motivou a organização da sprint de planejamento.
+O MAPPA PI II dá continuidade ao MAPPA PI I, que já dispunha de aplicativo Streamlit, ETL em Python e dados tratados da Polícia Rodoviária Federal (PRF). O PI II organiza a continuidade do projeto por Sprints e requisitos, com foco na análise de acidentes rodoviários.
 
 ## Equipe
 
-Liste os participantes, a turma, a disciplina e demais informações relevantes para identificar o grupo responsável.
+Equipe indicada no README do PI II: João Vitor Velozo Oliveira, Danilo Lisboa Barcelos e Igor Cavalcante Rodrigues. Turma e identificação institucional: confirmar com a equipe.
 
 ## Papéis
 
-Registre os papéis assumidos pelo grupo, como responsável por produto, facilitação, documentação, desenvolvimento, validação ou comunicação.
+Distribuição formal de papéis do PI II: **a confirmar pela equipe**. Os papéis do PI I não devem ser presumidos como vigentes no PI II.
 
 ## Cadência escolhida
 
-Explique a duração da sprint, a frequência de checkpoints, os momentos de revisão e o formato de acompanhamento adotado.
+Cronograma documentado em `docs/cronograma-sprints.md`: cinco Sprints planejadas de 17/08/2026 a 30/11/2026, com dois registros de reunião previstos por Sprint. Datas e realização efetiva das reuniões dependem de confirmação.
 
 ## Problema
 
-Explique o desafio principal que a equipe precisa resolver durante o ciclo inicial de organização.
+Dar continuidade ao MAPPA, organizar as entregas acadêmicas e garantir rastreabilidade entre requisitos, backlog, código, testes e documentação, distinguindo funcionalidades herdadas do PI I de evoluções do PI II.
 
 ## Objetivo
 
-Defina o resultado esperado para encerrar o planejamento com clareza e critério verificável.
+Estabelecer escopo, organização documental, cronograma e prioridades iniciais do MAPPA PI II, com referências verificáveis aos artefatos do repositório.
 
 ## Riscos
 
-Liste os riscos iniciais, as dependências, as restrições de prazo, as lacunas de conhecimento ou os fatores que possam comprometer a execução.
+- Ausência de comprovação de reuniões e decisões coletivas.
+- Responsabilidades individuais ainda não confirmadas.
+- Dependência dos arquivos originais da PRF para reproduzir integralmente o ETL.
+- Necessidade de completar testes e verificar issues e milestones no GitHub oficial.
+- Risco de atribuir ao PI II funcionalidades já implementadas no PI I.
 
 ## Backlog inicial
 
-Relacione os itens priorizados para o início do trabalho, com breve descrição e referência para as `issues`, quando existirem.
+Consultar `docs/backlog.md` e `docs/requisitos.md`. As primeiras Sprints priorizam revisão do ETL (US03), indicadores e filtros (US01, US02, US06), ranking, mapa e filtros combinados (US04, US05, US07). A vinculação e o estado das issues no GitHub ainda precisam ser conferidos.
 
 ## Acordos de trabalho
 
-Documente os combinados de comunicação, a definição de pronto, a revisão, o registro de evidências e os critérios de colaboração da equipe.
+**Proposta documental, sujeita à validação da equipe:** registrar alterações por commit, vincular atividades a issues quando existentes, revisar alterações antes da integração no repositório oficial, manter evidências de testes e não declarar reuniões ou entregas concluídas sem confirmação.
+
+## Pendências de validação
+
+Confirmar papéis, acordos de trabalho, datas de reuniões, marcos e issues no GitHub e aprovação coletiva deste planejamento.

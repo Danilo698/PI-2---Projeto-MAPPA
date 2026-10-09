@@ -27,8 +27,8 @@ flowchart TD
 |---|---|---|
 | Fonte de Dados | Arquivos CSV públicos da PRF | Dados abertos |
 | ETL | Extração, limpeza, padronização | Python, Pandas |
-| Dados Tratados | Base consolidada e filtrável | Parquet / CSV tratado |
-| Aplicação | Filtros, indicadores, gráficos, mapa | Streamlit, Plotly/Folium |
+| Dados Tratados | Base consolidada e filtrável | CSV tratado (implementação atual) |
+| Aplicação | Filtros, indicadores, gráficos, mapa | Streamlit, Plotly (implementação atual) |
 | Apresentação | Interface web | Navegador |
 
 ## Testes de integração (resumo)

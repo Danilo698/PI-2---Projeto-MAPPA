@@ -1,5 +1,7 @@
-# Reuniões
+# Registros de reuniões e planejamento
 
-Esta pasta registra as atas e os checkpoints de alinhamento do projeto. Use esses documentos para preservar participantes, decisões, encaminhamentos e impedimentos discutidos pela turma.
+Esta pasta reúne pautas, planejamentos e registros retrospectivos relacionados às Sprints 01 a 05. A existência de um arquivo **não comprova a realização de reunião formal**.
 
-Atualize um registro sempre que houver reunião de planejamento, acompanhamento, revisão de sprint ou qualquer outro marco relevante para a execução.
+Os registros devem informar sua situação real: pauta planejada, registro retrospectivo ou ata de reunião efetivamente realizada. Para registrar uma reunião comprovada, preencher data, participantes presentes, decisões validadas, encaminhamentos e evidências disponíveis.
+
+Há dois arquivos previstos para cada Sprint, em atendimento à organização documental solicitada. Datas, participação e validação coletiva permanecem pendentes quando não confirmadas pela equipe. Não transformar retrospectivamente pautas em atas sem evidência.

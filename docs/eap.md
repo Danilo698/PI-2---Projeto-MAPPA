@@ -29,7 +29,7 @@
 | 1.6 | **Gestão dos Ativos** | |
 | 1.6.1 | Website com dados e documentação | Artefato 5 — a definir |
 
-**Observação:** os pacotes 1.1 a 1.5 correspondem ao escopo com entrega em 14/09/2026 (Artefatos 1, 2 e 3). O pacote 1.6 (Artefato 5 — Website) não possui data definida.
+**Observação:** a EAP representa o escopo planejado do PI II, incluindo atividades de agosto a novembro de 2026. A referência de 14/09/2026 corresponde aos Artefatos 1, 2 e 3, não à conclusão de todos os pacotes 1.1 a 1.5. O pacote 1.6 (Artefato 5 — Website) permanece sem data definida. A conclusão efetiva de cada pacote depende de evidências e validação da equipe.
 
 ---
 🔗 Ver também: [Requisitos](./requisitos.md) · [Backlog](./backlog.md) · [Cronograma em Sprints](./cronograma-sprints.md)
